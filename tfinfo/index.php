@@ -5,7 +5,7 @@ function downloadfile()
 {
 	$options = array(
 	  CURLOPT_TIMEOUT =>  5,
-	  CURLOPT_URL     => "http://play.totalfreedom.me:28966/players",
+	  CURLOPT_URL     => "http://freedom-01.serv.totalfreedom.me:28966/players",
 	  CURLOPT_RETURNTRANSFER => true 
 	);
 
